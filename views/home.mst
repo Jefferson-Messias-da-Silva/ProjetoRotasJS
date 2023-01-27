@@ -12,10 +12,10 @@
 
 </style>
 <h2>Projeto Rotas</h2>
-<p>O projeto feito em nodeJS com a utilização dos fremework express e mostache</p>
+<p>O projeto feito em nodeJS com a utilização dos fremework express e mostache projeto tem tres rotas essa principal e outras dua uma com hitorico e a outra com os horários semais</p>
 <hr/>
 <ul>
     <li>Essa pagina principal mostra as rotas e descrição do projeto</li>
-    <li>Na rota /horarios vai direcionar para a grade de horarios semanal do 1ºsemestre 2023</li>
-    <li>Na rota /historico mostra o histrioco dos 1º e 2º semestre de 2022 </li>
+    <li>Na rota /horarios vai direcionar para a grade de horários semanal do 1ºsemestre 2023</li>
+    <li>Na rota /historico mostra o hisórico dos 1º e 2º semestre de 2022 </li>
 </ul>
